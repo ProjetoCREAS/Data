@@ -1,0 +1,1812 @@
+[
+  {
+    "rua": "Avenida Antonio Correa",
+    "bairro": "Centro",
+    "cep": "14730-149"
+  },
+  {
+    "rua": "Avenida da Saudade",
+    "bairro": "Centro",
+    "cep": "14730-151"
+  },
+  {
+    "rua": "Avenida Doutor Antonio Borges de Queiroz",
+    "bairro": "Centro",
+    "cep": "14730-073"
+  },
+  {
+    "rua": "Praa Capito Domingos Cione",
+    "bairro": "Centro",
+    "cep": "14730-107"
+  },
+  {
+    "rua": "Praa Cassiano Felipe Alves",
+    "bairro": "Centro",
+    "cep": "14730-041"
+  },
+  {
+    "rua": "Praa Coronel Licas",
+    "bairro": "Centro",
+    "cep": "14730-013"
+  },
+  {
+    "rua": "Praa Embaixador Macedo Soares",
+    "bairro": "Centro",
+    "cep": "14730-019"
+  },
+  {
+    "rua": "Praa Joaquim Sebastio Correa",
+    "bairro": "Centro",
+    "cep": "14730-127"
+  },
+  {
+    "rua": "Praa Marcos Sanches Hernandes",
+    "bairro": "Centro",
+    "cep": "14730-129"
+  },
+  {
+    "rua": "Praa Newton Prado",
+    "bairro": "Centro",
+    "cep": "14730-133"
+  },
+  {
+    "rua": "Praa Sebastio Baraldi",
+    "bairro": "Centro",
+    "cep": "14730-045"
+  },
+  {
+    "rua": "Praa Siqueira Campos",
+    "bairro": "Centro",
+    "cep": "14730-067"
+  },
+  {
+    "rua": "Rua 13 de Maio",
+    "bairro": "Centro",
+    "cep": "14730-153"
+  },
+  {
+    "rua": "Rua 7 de Setembro",
+    "bairro": "Centro",
+    "cep": "14730-047"
+  },
+  {
+    "rua": "Rua Alvares Cabral",
+    "bairro": "Centro",
+    "cep": "14730-043"
+  },
+  {
+    "rua": "Rua Amrico Vespcio",
+    "bairro": "Centro",
+    "cep": "14730-055"
+  },
+  {
+    "rua": "Rua Angelo Sasso",
+    "bairro": "Centro",
+    "cep": "14730-023"
+  },
+  {
+    "rua": "Rua Anibal Stangarlin",
+    "bairro": "Centro",
+    "cep": "14730-087"
+  },
+  {
+    "rua": "Rua Baro do Rio Branco",
+    "bairro": "Centro",
+    "cep": "14730-057"
+  },
+  {
+    "rua": "Rua Batista Carminatti",
+    "bairro": "Centro",
+    "cep": "14730-065"
+  },
+  {
+    "rua": "Rua Benjamin Constant",
+    "bairro": "Centro",
+    "cep": "14730-049"
+  },
+  {
+    "rua": "Rua Bernardino de Campos",
+    "bairro": "Centro",
+    "cep": "14730-111"
+  },
+  {
+    "rua": "Rua Bonfim",
+    "bairro": "Centro",
+    "cep": "14730-147"
+  },
+  {
+    "rua": "Rua Campos Salles",
+    "bairro": "Centro",
+    "cep": "14730-113"
+  },
+  {
+    "rua": "Rua Capito Francisco Correa",
+    "bairro": "Centro",
+    "cep": "14730-025"
+  },
+  {
+    "rua": "Rua Carlos Gomes",
+    "bairro": "Centro",
+    "cep": "14730-119"
+  },
+  {
+    "rua": "Rua Coronel Joo Manoel",
+    "bairro": "Centro",
+    "cep": "14730-115"
+  },
+  {
+    "rua": "Rua Cristvo Colombo",
+    "bairro": "Centro",
+    "cep": "14730-051"
+  },
+  {
+    "rua": "Rua Dermo Nolli",
+    "bairro": "Centro",
+    "cep": "14730-075"
+  },
+  {
+    "rua": "Rua Djalma Dutra",
+    "bairro": "Centro",
+    "cep": "14730-005"
+  },
+  {
+    "rua": "Rua Dora Barbeiro Junqueira Franco",
+    "bairro": "Centro",
+    "cep": "14730-093"
+  },
+  {
+    "rua": "Rua Doutor Ccero de Moraes",
+    "bairro": "Centro",
+    "cep": "14730-007"
+  },
+  {
+    "rua": "Rua Doutor Constantino Catalano",
+    "bairro": "Centro",
+    "cep": "14730-141"
+  },
+  {
+    "rua": "Rua Doutor Jlio de Queiroz",
+    "bairro": "Centro",
+    "cep": "14730-157"
+  },
+  {
+    "rua": "Rua Duilio Jos Novas",
+    "bairro": "Centro",
+    "cep": "14730-081"
+  },
+  {
+    "rua": "Rua Durval Borsato",
+    "bairro": "Centro",
+    "cep": "14730-161"
+  },
+  {
+    "rua": "Rua Emidio de Souza",
+    "bairro": "Centro",
+    "cep": "14730-123"
+  },
+  {
+    "rua": "Rua Engenheiro Joo Mastrela",
+    "bairro": "Centro",
+    "cep": "14730-053"
+  },
+  {
+    "rua": "Rua Ernesto Ferro",
+    "bairro": "Centro",
+    "cep": "14730-159"
+  },
+  {
+    "rua": "Rua Esperana",
+    "bairro": "Centro",
+    "cep": "14730-145"
+  },
+  {
+    "rua": "Rua Floriano Peixoto",
+    "bairro": "Centro",
+    "cep": "14730-097"
+  },
+  {
+    "rua": "Rua Helvetia",
+    "bairro": "Centro",
+    "cep": "14730-143"
+  },
+  {
+    "rua": "Rua Hugo Kohlmann",
+    "bairro": "Centro",
+    "cep": "14730-089"
+  },
+  {
+    "rua": "Rua Joaquim da Costa Penha",
+    "bairro": "Centro",
+    "cep": "14730-031"
+  },
+  {
+    "rua": "Rua Jos Arroyo",
+    "bairro": "Centro",
+    "cep": "14730-027"
+  },
+  {
+    "rua": "Rua Jos Bonifacio",
+    "bairro": "Centro",
+    "cep": "14730-077"
+  },
+  {
+    "rua": "Rua Julio Arroyo",
+    "bairro": "Centro",
+    "cep": "14730-063"
+  },
+  {
+    "rua": "Rua Junqueira",
+    "bairro": "Centro",
+    "cep": "14730-105"
+  },
+  {
+    "rua": "Rua Libero Badaro",
+    "bairro": "Centro",
+    "cep": "14730-015"
+  },
+  {
+    "rua": "Rua Maestro Pedro da Cruz Salgado",
+    "bairro": "Centro",
+    "cep": "14730-061"
+  },
+  {
+    "rua": "Rua Major Hildebranco",
+    "bairro": "Centro",
+    "cep": "14730-011"
+  },
+  {
+    "rua": "Rua Marconi",
+    "bairro": "Centro",
+    "cep": "14730-103"
+  },
+  {
+    "rua": "Rua Marechal Deodoro da Fonseca",
+    "bairro": "Centro",
+    "cep": "14730-059"
+  },
+  {
+    "rua": "Rua Maria Pecciolli Gianasi",
+    "bairro": "Centro",
+    "cep": "14730-121"
+  },
+  {
+    "rua": "Rua Melvin Jones",
+    "bairro": "Centro",
+    "cep": "14730-083"
+  },
+  {
+    "rua": "Rua Moacir Dias",
+    "bairro": "Centro",
+    "cep": "14730-091"
+  },
+  {
+    "rua": "Rua Monsenhor Antonio Bezerra de Menezes",
+    "bairro": "Centro",
+    "cep": "14730-135"
+  },
+  {
+    "rua": "Rua Monteiro Lobato",
+    "bairro": "Centro",
+    "cep": "14730-017"
+  },
+  {
+    "rua": "Rua Moreira Cesar",
+    "bairro": "Centro",
+    "cep": "14730-137"
+  },
+  {
+    "rua": "Rua Nabor Fausto David",
+    "bairro": "Centro",
+    "cep": "14730-029"
+  },
+  {
+    "rua": "Rua Natalina Gonzales Stangarlin",
+    "bairro": "Centro",
+    "cep": "14730-085"
+  },
+  {
+    "rua": "Rua Paulino Ramos",
+    "bairro": "Centro",
+    "cep": "14730-125"
+  },
+  {
+    "rua": "Rua Prudente de Moraes",
+    "bairro": "Centro",
+    "cep": "14730-003"
+  },
+  {
+    "rua": "Rua Quintino Bocaiuva",
+    "bairro": "Centro",
+    "cep": "14730-117"
+  },
+  {
+    "rua": "Rua Ricardo Lopes de Queiroz",
+    "bairro": "Centro",
+    "cep": "14730-079"
+  },
+  {
+    "rua": "Rua Rodrigues Alves",
+    "bairro": "Centro",
+    "cep": "14730-021"
+  },
+  {
+    "rua": "Rua Rui Barbosa",
+    "bairro": "Centro",
+    "cep": "14730-101"
+  },
+  {
+    "rua": "Rua Saldanha Marinho",
+    "bairro": "Centro",
+    "cep": "14730-099"
+  },
+  {
+    "rua": "Rua Santos Dumont",
+    "bairro": "Centro",
+    "cep": "14730-139"
+  },
+  {
+    "rua": "Rua So Joo",
+    "bairro": "Centro",
+    "cep": "14730-037"
+  },
+  {
+    "rua": "Rua So Pedro",
+    "bairro": "Centro",
+    "cep": "14730-033"
+  },
+  {
+    "rua": "Rua Sebastio de Souza Lima",
+    "bairro": "Centro",
+    "cep": "14730-155"
+  },
+  {
+    "rua": "Rua Silva Jardim",
+    "bairro": "Centro",
+    "cep": "14730-095"
+  },
+  {
+    "rua": "Rua Washington Luiz",
+    "bairro": "Centro",
+    "cep": "14730-071"
+  },
+  {
+    "rua": "Travessa Doutor Seabra",
+    "bairro": "Centro",
+    "cep": "14730-131"
+  },
+  {
+    "rua": "Travessa Gabriel Said Aidar",
+    "bairro": "Centro",
+    "cep": "14730-109"
+  },
+  {
+    "rua": "Travessa Jos Cione",
+    "bairro": "Centro",
+    "cep": "14730-039"
+  },
+  {
+    "rua": "Travessa So Pedro",
+    "bairro": "Centro",
+    "cep": "14730-035"
+  },
+  {
+    "rua": "Travessa Sebastio Pinto de Almeida",
+    "bairro": "Centro",
+    "cep": "14730-069"
+  },
+  {
+    "rua": "Travessa Vila Abarca",
+    "bairro": "Centro",
+    "cep": "14730-009"
+  },
+  {
+    "rua": "rea Rural",
+    "bairro": "Centro (Marcondsia)",
+    "cep": "14733-001"
+  },
+  {
+    "rua": "Avenida Joo Gurjon",
+    "bairro": "Centro (Marcondsia)",
+    "cep": "14733-018"
+  },
+  {
+    "rua": "Avenida Matheus Bartol Gonzales",
+    "bairro": "Centro (Marcondsia)",
+    "cep": "14733-006"
+  },
+  {
+    "rua": "Praa Santo Antonio",
+    "bairro": "Centro (Marcondsia)",
+    "cep": "14733-010"
+  },
+  {
+    "rua": "Rua Alexanare Puglieri",
+    "bairro": "Centro (Marcondsia)",
+    "cep": "14733-012"
+  },
+  {
+    "rua": "Rua Arlindo Martins",
+    "bairro": "Centro (Marcondsia)",
+    "cep": "14733-014"
+  },
+  {
+    "rua": "Rua Benjamim Cione",
+    "bairro": "Centro (Marcondsia)",
+    "cep": "14733-020"
+  },
+  {
+    "rua": "Rua Genaro Bartol",
+    "bairro": "Centro (Marcondsia)",
+    "cep": "14733-016"
+  },
+  {
+    "rua": "Rua Paschoal Campanelli",
+    "bairro": "Centro (Marcondsia)",
+    "cep": "14733-004"
+  },
+  {
+    "rua": "Rua Rafael Sevilhano",
+    "bairro": "Centro (Marcondsia)",
+    "cep": "14733-008"
+  },
+  {
+    "rua": "Travessa 1 de Janeiro",
+    "bairro": "Centro (Marcondsia)",
+    "cep": "14733-002"
+  },
+  {
+    "rua": "Rua Bonfim",
+    "bairro": "Ciappina",
+    "cep": "14730-230"
+  },
+  {
+    "rua": "Rua Doutor Jlio de Queiroz",
+    "bairro": "Ciappina",
+    "cep": "14730-236"
+  },
+  {
+    "rua": "Rua Ivo Lindemberg Quintanilha",
+    "bairro": "Ciappina",
+    "cep": "14730-234"
+  },
+  {
+    "rua": "Rua Orfeo Giannasi",
+    "bairro": "Ciappina",
+    "cep": "14730-238"
+  },
+  {
+    "rua": "Rua Valentim Thomazella",
+    "bairro": "Ciappina",
+    "cep": "14730-232"
+  },
+  {
+    "rua": "Travessa Moreira Cesar",
+    "bairro": "Ciappina",
+    "cep": "14730-240"
+  },
+  {
+    "rua": "Avenida Eduardo Machado",
+    "bairro": "Conjunto Habitacional Nestor Elias David",
+    "cep": "14732-380"
+  },
+  {
+    "rua": "Rua Andr Ernesto Fvero",
+    "bairro": "Conjunto Habitacional Nestor Elias David",
+    "cep": "14732-384"
+  },
+  {
+    "rua": "Rua Antonio da Costa",
+    "bairro": "Conjunto Habitacional Nestor Elias David",
+    "cep": "14732-388"
+  },
+  {
+    "rua": "Rua Aparecida Panela Teixeira",
+    "bairro": "Conjunto Habitacional Nestor Elias David",
+    "cep": "14732-382"
+  },
+  {
+    "rua": "Rua Clara Ferreira de Moraes",
+    "bairro": "Conjunto Habitacional Nestor Elias David",
+    "cep": "14732-386"
+  },
+  {
+    "rua": "Rua Francisco Patrcio",
+    "bairro": "Conjunto Habitacional Nestor Elias David",
+    "cep": "14732-400"
+  },
+  {
+    "rua": "Rua Joo Narcizo Pontes",
+    "bairro": "Conjunto Habitacional Nestor Elias David",
+    "cep": "14732-396"
+  },
+  {
+    "rua": "Rua Maria Elza Cobucci Liserre",
+    "bairro": "Conjunto Habitacional Nestor Elias David",
+    "cep": "14732-394"
+  },
+  {
+    "rua": "Rua Marly Fiori de Moraes",
+    "bairro": "Conjunto Habitacional Nestor Elias David",
+    "cep": "14732-392"
+  },
+  {
+    "rua": "Rua Sucar Tamer Butros",
+    "bairro": "Conjunto Habitacional Nestor Elias David",
+    "cep": "14732-398"
+  },
+  {
+    "rua": "Rua Waldomiro Miotto Filho",
+    "bairro": "Conjunto Habitacional Nestor Elias David",
+    "cep": "14732-390"
+  },
+  {
+    "rua": "Rua Doutor Oswaldo Garcia Rebollo",
+    "bairro": "Conjunto Habitacional Vereador Paulo Gurjon",
+    "cep": "14732-260"
+  },
+  {
+    "rua": "Rua Leandro Furgulho",
+    "bairro": "Conjunto Habitacional Vereador Paulo Gurjon",
+    "cep": "14732-268"
+  },
+  {
+    "rua": "Rua Luiz Vignola",
+    "bairro": "Conjunto Habitacional Vereador Paulo Gurjon",
+    "cep": "14732-266"
+  },
+  {
+    "rua": "Rua Mario Marroceli",
+    "bairro": "Conjunto Habitacional Vereador Paulo Gurjon",
+    "cep": "14732-262"
+  },
+  {
+    "rua": "Rua Vereador Sebastio Faria Teixeira",
+    "bairro": "Conjunto Habitacional Vereador Paulo Gurjon",
+    "cep": "14732-264"
+  },
+  {
+    "rua": "Praa do Cruzeiro",
+    "bairro": "Cruzeiro",
+    "cep": "14730-204"
+  },
+  {
+    "rua": "Rua 9 de Julho",
+    "bairro": "Cruzeiro",
+    "cep": "14730-208"
+  },
+  {
+    "rua": "Rua Amrico Brasiliense",
+    "bairro": "Cruzeiro",
+    "cep": "14730-220"
+  },
+  {
+    "rua": "Rua Doutor Constantino Catalano",
+    "bairro": "Cruzeiro",
+    "cep": "14730-228"
+  },
+  {
+    "rua": "Rua Doutor Jlio de Queiroz",
+    "bairro": "Cruzeiro",
+    "cep": "14730-200"
+  },
+  {
+    "rua": "Rua Ernesto Ferro",
+    "bairro": "Cruzeiro",
+    "cep": "14730-210"
+  },
+  {
+    "rua": "Rua Gasto Viaro",
+    "bairro": "Cruzeiro",
+    "cep": "14730-222"
+  },
+  {
+    "rua": "Rua Gomes de Oliveira",
+    "bairro": "Cruzeiro",
+    "cep": "14730-216"
+  },
+  {
+    "rua": "Rua Joo Galhardo Filho",
+    "bairro": "Cruzeiro",
+    "cep": "14730-226"
+  },
+  {
+    "rua": "Rua Moreira Cesar",
+    "bairro": "Cruzeiro",
+    "cep": "14730-214"
+  },
+  {
+    "rua": "Rua Piracicaba",
+    "bairro": "Cruzeiro",
+    "cep": "14730-212"
+  },
+  {
+    "rua": "Rua Romeu de Freitas",
+    "bairro": "Cruzeiro",
+    "cep": "14730-224"
+  },
+  {
+    "rua": "Rua Santos Dumont",
+    "bairro": "Cruzeiro",
+    "cep": "14730-218"
+  },
+  {
+    "rua": "Travessa Augusto Neves",
+    "bairro": "Cruzeiro",
+    "cep": "14730-206"
+  },
+  {
+    "rua": "Travessa Moreira Cesar",
+    "bairro": "Cruzeiro",
+    "cep": "14730-202"
+  },
+  {
+    "rua": "Avenida Rubens Bruniera de Oliveira",
+    "bairro": "Distrito Industrial Joo Roberto David",
+    "cep": "14731-410"
+  },
+  {
+    "rua": "Estrada Municipal MAP 020",
+    "bairro": "Distrito Industrial Joo Roberto David",
+    "cep": "14731-412"
+  },
+  {
+    "rua": "Estrada Municipal MAP 411",
+    "bairro": "Distrito Industrial Joo Roberto David",
+    "cep": "14731-400"
+  },
+  {
+    "rua": "Rua Guerino Ferro",
+    "bairro": "Distrito Industrial Joo Roberto David",
+    "cep": "14731-408"
+  },
+  {
+    "rua": "Rua Jos Carlos Cordova",
+    "bairro": "Distrito Industrial Joo Roberto David",
+    "cep": "14731-402"
+  },
+  {
+    "rua": "Rua Maria de Lourdes Rossato Gallego",
+    "bairro": "Distrito Industrial Joo Roberto David",
+    "cep": "14731-404"
+  },
+  {
+    "rua": "Rua Wadith Thom",
+    "bairro": "Distrito Industrial Joo Roberto David",
+    "cep": "14731-406"
+  },
+  {
+    "rua": "Avenida Antonio Carminatti",
+    "bairro": "Distrito Industrial Valentim Thomazella",
+    "cep": "14731-250"
+  },
+  {
+    "rua": "Avenida Fortunato Cerutti",
+    "bairro": "Distrito Industrial Valentim Thomazella",
+    "cep": "14731-254"
+  },
+  {
+    "rua": "Avenida Osvaldo Plaza",
+    "bairro": "Distrito Industrial Valentim Thomazella",
+    "cep": "14731-252"
+  },
+  {
+    "rua": "Rua 2",
+    "bairro": "Distrito Industrial Valentim Thomazella",
+    "cep": "14731-258"
+  },
+  {
+    "rua": "Rua Humberto Pizarro",
+    "bairro": "Distrito Industrial Valentim Thomazella",
+    "cep": "14731-256"
+  },
+  {
+    "rua": "Avenida Theodoro Rodas",
+    "bairro": "Jardim Amazonas",
+    "cep": "14731-190"
+  },
+  {
+    "rua": "Rua Edson Marques da Silva",
+    "bairro": "Jardim Amazonas",
+    "cep": "14731-204"
+  },
+  {
+    "rua": "Rua Francisco Humberto David",
+    "bairro": "Jardim Amazonas",
+    "cep": "14731-200"
+  },
+  {
+    "rua": "Rua Ivanir Puglieri",
+    "bairro": "Jardim Amazonas",
+    "cep": "14731-206"
+  },
+  {
+    "rua": "Rua Jos Arroyo Sobrinho",
+    "bairro": "Jardim Amazonas",
+    "cep": "14731-202"
+  },
+  {
+    "rua": "Rua Luiz Chieratto",
+    "bairro": "Jardim Amazonas",
+    "cep": "14731-198"
+  },
+  {
+    "rua": "Rua Olivio Bombonato",
+    "bairro": "Jardim Amazonas",
+    "cep": "14731-196"
+  },
+  {
+    "rua": "Rua Orlando Bucci",
+    "bairro": "Jardim Amazonas",
+    "cep": "14731-192"
+  },
+  {
+    "rua": "Rua Oscar Francisco de Campos",
+    "bairro": "Jardim Amazonas",
+    "cep": "14731-208"
+  },
+  {
+    "rua": "Rua Paulo Humberto Bim",
+    "bairro": "Jardim Amazonas",
+    "cep": "14731-194"
+  },
+  {
+    "rua": "Avenida Eduardo Machado",
+    "bairro": "Jardim Bela Vista",
+    "cep": "14732-188"
+  },
+  {
+    "rua": "Praa Adolpho Arado",
+    "bairro": "Jardim Bela Vista",
+    "cep": "14732-180"
+  },
+  {
+    "rua": "Praa Bertholino Arnaldo Silva",
+    "bairro": "Jardim Bela Vista",
+    "cep": "14732-170"
+  },
+  {
+    "rua": "Rua Amelia Gomes Cruz David",
+    "bairro": "Jardim Bela Vista",
+    "cep": "14732-176"
+  },
+  {
+    "rua": "Rua Anderson David",
+    "bairro": "Jardim Bela Vista",
+    "cep": "14732-190"
+  },
+  {
+    "rua": "Rua Arthur David",
+    "bairro": "Jardim Bela Vista",
+    "cep": "14732-182"
+  },
+  {
+    "rua": "Rua Jos Firmino de Sant'Anna Filho",
+    "bairro": "Jardim Bela Vista",
+    "cep": "14732-194"
+  },
+  {
+    "rua": "Rua Luiza Zaramella David",
+    "bairro": "Jardim Bela Vista",
+    "cep": "14732-186"
+  },
+  {
+    "rua": "Rua Maximiliano Sandrini",
+    "bairro": "Jardim Bela Vista",
+    "cep": "14732-172"
+  },
+  {
+    "rua": "Rua Nestor Elias David",
+    "bairro": "Jardim Bela Vista",
+    "cep": "14732-192"
+  },
+  {
+    "rua": "Rua So Pedro",
+    "bairro": "Jardim Bela Vista",
+    "cep": "14732-184"
+  },
+  {
+    "rua": "Rua Tripoli",
+    "bairro": "Jardim Bela Vista",
+    "cep": "14732-178"
+  },
+  {
+    "rua": "Travessa So Pedro",
+    "bairro": "Jardim Bela Vista",
+    "cep": "14732-174"
+  },
+  {
+    "rua": "Avenida Liscano Coelho Blanco",
+    "bairro": "Jardim Centenrio",
+    "cep": "14732-240"
+  },
+  {
+    "rua": "Rua Aurlio Pansonatto",
+    "bairro": "Jardim Centenrio",
+    "cep": "14732-246"
+  },
+  {
+    "rua": "Rua Benedito Rocha",
+    "bairro": "Jardim Centenrio",
+    "cep": "14732-250"
+  },
+  {
+    "rua": "Rua Flausino Vieira",
+    "bairro": "Jardim Centenrio",
+    "cep": "14732-244"
+  },
+  {
+    "rua": "Rua Hermelinda Ricciardi Vieira",
+    "bairro": "Jardim Centenrio",
+    "cep": "14732-248"
+  },
+  {
+    "rua": "Rua Hermes Batistela",
+    "bairro": "Jardim Centenrio",
+    "cep": "14732-242"
+  },
+  {
+    "rua": "Rua 4",
+    "bairro": "Jardim dos Ips",
+    "cep": "14731-004"
+  },
+  {
+    "rua": "Rua Aparecido Jos Baraldi",
+    "bairro": "Jardim dos Ips",
+    "cep": "14731-002"
+  },
+  {
+    "rua": "Rua Henrique Celso Trevisan",
+    "bairro": "Jardim dos Ips",
+    "cep": "14731-006"
+  },
+  {
+    "rua": "Rua Jos de Siqueira Vilela",
+    "bairro": "Jardim dos Ips",
+    "cep": "14731-008"
+  },
+  {
+    "rua": "Rua Marechal Garrastazu Mdici",
+    "bairro": "Jardim dos Ips",
+    "cep": "14731-010"
+  },
+  {
+    "rua": "Rua Silvrio Severino",
+    "bairro": "Jardim dos Ips",
+    "cep": "14731-000"
+  },
+  {
+    "rua": "Rua Antonio Silvio Cunha Bueno",
+    "bairro": "Jardim Itamaraty",
+    "cep": "14730-368"
+  },
+  {
+    "rua": "Rua Bernardino de Campos",
+    "bairro": "Jardim Itamaraty",
+    "cep": "14730-352"
+  },
+  {
+    "rua": "Rua Comendador Jorge Bittar",
+    "bairro": "Jardim Itamaraty",
+    "cep": "14730-362"
+  },
+  {
+    "rua": "Rua Coronel Joo Manoel",
+    "bairro": "Jardim Itamaraty",
+    "cep": "14730-350"
+  },
+  {
+    "rua": "Rua Fritz Hotz",
+    "bairro": "Jardim Itamaraty",
+    "cep": "14730-356"
+  },
+  {
+    "rua": "Rua Izue Blanco Lima",
+    "bairro": "Jardim Itamaraty",
+    "cep": "14730-360"
+  },
+  {
+    "rua": "Rua Joo Rosa de Moraes",
+    "bairro": "Jardim Itamaraty",
+    "cep": "14730-364"
+  },
+  {
+    "rua": "Rua Marconi",
+    "bairro": "Jardim Itamaraty",
+    "cep": "14730-358"
+  },
+  {
+    "rua": "Rua Rui Barbosa",
+    "bairro": "Jardim Itamaraty",
+    "cep": "14730-354"
+  },
+  {
+    "rua": "Rua Thomaz Marocelli",
+    "bairro": "Jardim Itamaraty",
+    "cep": "14730-366"
+  },
+  {
+    "rua": "Praa Jos Bolzan Netto",
+    "bairro": "Jardim Primavera",
+    "cep": "14731-104"
+  },
+  {
+    "rua": "Praa Pedro Favero",
+    "bairro": "Jardim Primavera",
+    "cep": "14731-116"
+  },
+  {
+    "rua": "Rua 31 de Maro",
+    "bairro": "Jardim Primavera",
+    "cep": "14731-102"
+  },
+  {
+    "rua": "Rua Amrico Vespcio",
+    "bairro": "Jardim Primavera",
+    "cep": "14731-112"
+  },
+  {
+    "rua": "Rua Angelo de Biasi",
+    "bairro": "Jardim Primavera",
+    "cep": "14731-120"
+  },
+  {
+    "rua": "Rua Baro do Rio Branco",
+    "bairro": "Jardim Primavera",
+    "cep": "14731-118"
+  },
+  {
+    "rua": "Rua Francisco Bastos",
+    "bairro": "Jardim Primavera",
+    "cep": "14731-122"
+  },
+  {
+    "rua": "Rua General Ernesto Geisel",
+    "bairro": "Jardim Primavera",
+    "cep": "14731-114"
+  },
+  {
+    "rua": "Rua Joo Dias Bastos",
+    "bairro": "Jardim Primavera",
+    "cep": "14731-108"
+  },
+  {
+    "rua": "Rua Marechal Castelo Branco",
+    "bairro": "Jardim Primavera",
+    "cep": "14731-100"
+  },
+  {
+    "rua": "Rua Marechal Costa e Silva",
+    "bairro": "Jardim Primavera",
+    "cep": "14731-106"
+  },
+  {
+    "rua": "Rua Marechal Deodoro da Fonseca",
+    "bairro": "Jardim Primavera",
+    "cep": "14731-124"
+  },
+  {
+    "rua": "Rua Marechal Garrastazu Mdici",
+    "bairro": "Jardim Primavera",
+    "cep": "14731-110"
+  },
+  {
+    "rua": "Rua Lucia Bittar Gomes",
+    "bairro": "Jardim Recreio dos Bandeirantes",
+    "cep": "14732-082"
+  },
+  {
+    "rua": "Vicinal Doutor Moacyr Alves de Lima",
+    "bairro": "Jardim Recreio dos Bandeirantes",
+    "cep": "14732-080"
+  },
+  {
+    "rua": "Avenida Liscano Coelho Blanco",
+    "bairro": "Jardim Santa Helena II",
+    "cep": "14732-150"
+  },
+  {
+    "rua": "Rua Angelo Sasso",
+    "bairro": "Jardim Santa Helena II",
+    "cep": "14732-166"
+  },
+  {
+    "rua": "Rua Antonio Silva",
+    "bairro": "Jardim Santa Helena II",
+    "cep": "14732-160"
+  },
+  {
+    "rua": "Rua Ernesto Alves",
+    "bairro": "Jardim Santa Helena II",
+    "cep": "14732-162"
+  },
+  {
+    "rua": "Rua Fausto Antonio Zangrando",
+    "bairro": "Jardim Santa Helena II",
+    "cep": "14732-154"
+  },
+  {
+    "rua": "Rua Joaquina Correa Fumeiro",
+    "bairro": "Jardim Santa Helena II",
+    "cep": "14732-164"
+  },
+  {
+    "rua": "Rua Jovita Pereira Plaza",
+    "bairro": "Jardim Santa Helena II",
+    "cep": "14732-156"
+  },
+  {
+    "rua": "Rua Waldomiro Cardoso de Oliveira",
+    "bairro": "Jardim Santa Helena II",
+    "cep": "14732-152"
+  },
+  {
+    "rua": "Vicinal Doutor Moacyr Alves de Lima",
+    "bairro": "Jardim Santa Helena II",
+    "cep": "14732-158"
+  },
+  {
+    "rua": "Avenida Eduardo Machado",
+    "bairro": "Jardim So Felipe",
+    "cep": "14732-328"
+  },
+  {
+    "rua": "Avenida Liscano Coelho Blanco",
+    "bairro": "Jardim So Felipe",
+    "cep": "14732-304"
+  },
+  {
+    "rua": "Rua Antonio Domingos Pelizer",
+    "bairro": "Jardim So Felipe",
+    "cep": "14732-318"
+  },
+  {
+    "rua": "Rua Antonio Sartori",
+    "bairro": "Jardim So Felipe",
+    "cep": "14732-326"
+  },
+  {
+    "rua": "Rua Ary Veiga",
+    "bairro": "Jardim So Felipe",
+    "cep": "14732-312"
+  },
+  {
+    "rua": "Rua Benedito de Almeida",
+    "bairro": "Jardim So Felipe",
+    "cep": "14732-320"
+  },
+  {
+    "rua": "Rua Joo Incio da Silva",
+    "bairro": "Jardim So Felipe",
+    "cep": "14732-310"
+  },
+  {
+    "rua": "Rua Jos Theodoro Pereira",
+    "bairro": "Jardim So Felipe",
+    "cep": "14732-308"
+  },
+  {
+    "rua": "Rua Lzaro Rosa de Moraes",
+    "bairro": "Jardim So Felipe",
+    "cep": "14732-300"
+  },
+  {
+    "rua": "Rua Leandro Ferrari",
+    "bairro": "Jardim So Felipe",
+    "cep": "14732-314"
+  },
+  {
+    "rua": "Rua Moacyr Sevieri",
+    "bairro": "Jardim So Felipe",
+    "cep": "14732-322"
+  },
+  {
+    "rua": "Rua Neves Morales",
+    "bairro": "Jardim So Felipe",
+    "cep": "14732-306"
+  },
+  {
+    "rua": "Rua Orlando Guerra",
+    "bairro": "Jardim So Felipe",
+    "cep": "14732-302"
+  },
+  {
+    "rua": "Rua Oscar Dias Bastos",
+    "bairro": "Jardim So Felipe",
+    "cep": "14732-316"
+  },
+  {
+    "rua": "Rua Roberto Camozzi",
+    "bairro": "Jardim So Felipe",
+    "cep": "14732-324"
+  },
+  {
+    "rua": "Avenida Antonio Correa",
+    "bairro": "Jardim So Francisco",
+    "cep": "14730-286"
+  },
+  {
+    "rua": "Rua 13 de Maio",
+    "bairro": "Jardim So Francisco",
+    "cep": "14730-278"
+  },
+  {
+    "rua": "Rua Adauto Machado Morales",
+    "bairro": "Jardim So Francisco",
+    "cep": "14730-284"
+  },
+  {
+    "rua": "Rua Alcides de Carvalho Neves",
+    "bairro": "Jardim So Francisco",
+    "cep": "14730-282"
+  },
+  {
+    "rua": "Rua Antonio Barbeiro",
+    "bairro": "Jardim So Francisco",
+    "cep": "14730-260"
+  },
+  {
+    "rua": "Rua Ardelino Vidotti",
+    "bairro": "Jardim So Francisco",
+    "cep": "14730-254"
+  },
+  {
+    "rua": "Rua Benedito Carneiro de Camargo",
+    "bairro": "Jardim So Francisco",
+    "cep": "14730-266"
+  },
+  {
+    "rua": "Rua Iracema Severino",
+    "bairro": "Jardim So Francisco",
+    "cep": "14730-256"
+  },
+  {
+    "rua": "Rua Joo Bolzan",
+    "bairro": "Jardim So Francisco",
+    "cep": "14730-258"
+  },
+  {
+    "rua": "Rua Joo Guariente",
+    "bairro": "Jardim So Francisco",
+    "cep": "14730-250"
+  },
+  {
+    "rua": "Rua Manoel Fumeiro",
+    "bairro": "Jardim So Francisco",
+    "cep": "14730-262"
+  },
+  {
+    "rua": "Rua Maria Lcia da Cruz Bortolan",
+    "bairro": "Jardim So Francisco",
+    "cep": "14730-276"
+  },
+  {
+    "rua": "Rua Nimer Chaim Casseb",
+    "bairro": "Jardim So Francisco",
+    "cep": "14730-280"
+  },
+  {
+    "rua": "Rua Padre Jos Sampons",
+    "bairro": "Jardim So Francisco",
+    "cep": "14730-270"
+  },
+  {
+    "rua": "Rua Rafael Rissi",
+    "bairro": "Jardim So Francisco",
+    "cep": "14730-274"
+  },
+  {
+    "rua": "Rua Said Jorge Casseb",
+    "bairro": "Jardim So Francisco",
+    "cep": "14730-268"
+  },
+  {
+    "rua": "Rua Sebastio de Souza Lima",
+    "bairro": "Jardim So Francisco",
+    "cep": "14730-272"
+  },
+  {
+    "rua": "Rua Valentim Thomazella",
+    "bairro": "Jardim So Francisco",
+    "cep": "14730-252"
+  },
+  {
+    "rua": "Rua Vicente Esteves Aguillar",
+    "bairro": "Jardim So Francisco",
+    "cep": "14730-264"
+  },
+  {
+    "rua": "Avenida Eduardo Machado",
+    "bairro": "Jardim So Judas Tadeu",
+    "cep": "14732-330"
+  },
+  {
+    "rua": "Avenida Liscano Coelho Blanco",
+    "bairro": "Jardim So Judas Tadeu",
+    "cep": "14732-332"
+  },
+  {
+    "rua": "Praa Julio Geromini",
+    "bairro": "Jardim So Judas Tadeu",
+    "cep": "14732-350"
+  },
+  {
+    "rua": "Rua Antonio de Abreu",
+    "bairro": "Jardim So Judas Tadeu",
+    "cep": "14732-338"
+  },
+  {
+    "rua": "Rua Barnab Rodrigues Blanco",
+    "bairro": "Jardim So Judas Tadeu",
+    "cep": "14732-342"
+  },
+  {
+    "rua": "Rua C",
+    "bairro": "Jardim So Judas Tadeu",
+    "cep": "14732-348"
+  },
+  {
+    "rua": "Rua Jos Marques",
+    "bairro": "Jardim So Judas Tadeu",
+    "cep": "14732-340"
+  },
+  {
+    "rua": "Rua Maria Eugnia Blanco Machado",
+    "bairro": "Jardim So Judas Tadeu",
+    "cep": "14732-352"
+  },
+  {
+    "rua": "Rua Miguel Barbeiro Messas",
+    "bairro": "Jardim So Judas Tadeu",
+    "cep": "14732-344"
+  },
+  {
+    "rua": "Rua Nassif Najem",
+    "bairro": "Jardim So Judas Tadeu",
+    "cep": "14732-346"
+  },
+  {
+    "rua": "Rua Pedro Travaini",
+    "bairro": "Jardim So Judas Tadeu",
+    "cep": "14732-334"
+  },
+  {
+    "rua": "Rua Walter Baptista dos Reis",
+    "bairro": "Jardim So Judas Tadeu",
+    "cep": "14732-336"
+  },
+  {
+    "rua": "Rua 1",
+    "bairro": "Jardim So Pedro",
+    "cep": "14732-362"
+  },
+  {
+    "rua": "Rua 2",
+    "bairro": "Jardim So Pedro",
+    "cep": "14732-364"
+  },
+  {
+    "rua": "Rua 3",
+    "bairro": "Jardim So Pedro",
+    "cep": "14732-366"
+  },
+  {
+    "rua": "Rua 4",
+    "bairro": "Jardim So Pedro",
+    "cep": "14732-368"
+  },
+  {
+    "rua": "Rua 5",
+    "bairro": "Jardim So Pedro",
+    "cep": "14732-370"
+  },
+  {
+    "rua": "Rua 6",
+    "bairro": "Jardim So Pedro",
+    "cep": "14732-372"
+  },
+  {
+    "rua": "Rua 7",
+    "bairro": "Jardim So Pedro",
+    "cep": "14732-374"
+  },
+  {
+    "rua": "Rua 8",
+    "bairro": "Jardim So Pedro",
+    "cep": "14732-376"
+  },
+  {
+    "rua": "Rua Eduardo Machado",
+    "bairro": "Jardim So Pedro",
+    "cep": "14732-360"
+  },
+  {
+    "rua": "Rua Angelo Sasso",
+    "bairro": "Jardim So Sebastio",
+    "cep": "14732-208"
+  },
+  {
+    "rua": "Rua Emilio Palin",
+    "bairro": "Jardim So Sebastio",
+    "cep": "14732-212"
+  },
+  {
+    "rua": "Rua Fausto Antonio Zangrando",
+    "bairro": "Jardim So Sebastio",
+    "cep": "14732-206"
+  },
+  {
+    "rua": "Rua Jos Firmino de Sant'Anna Filho",
+    "bairro": "Jardim So Sebastio",
+    "cep": "14732-202"
+  },
+  {
+    "rua": "Rua Jovita Pereira Plaza",
+    "bairro": "Jardim So Sebastio",
+    "cep": "14732-204"
+  },
+  {
+    "rua": "Rua Lzaro Rosa de Moraes",
+    "bairro": "Jardim So Sebastio",
+    "cep": "14732-214"
+  },
+  {
+    "rua": "Rua Maximiliano Sandrini",
+    "bairro": "Jardim So Sebastio",
+    "cep": "14732-210"
+  },
+  {
+    "rua": "Rua Nestor Elias David",
+    "bairro": "Jardim So Sebastio",
+    "cep": "14732-200"
+  },
+  {
+    "rua": "Rua Batista Carminatti",
+    "bairro": "Residencial Arroyo",
+    "cep": "14731-136"
+  },
+  {
+    "rua": "Rua Francisca Fernandes Massoneto",
+    "bairro": "Residencial Arroyo",
+    "cep": "14731-138"
+  },
+  {
+    "rua": "Rua Julio Arroyo",
+    "bairro": "Residencial Arroyo",
+    "cep": "14731-134"
+  },
+  {
+    "rua": "Rua Maestro Pedro da Cruz Salgado",
+    "bairro": "Residencial Arroyo",
+    "cep": "14731-132"
+  },
+  {
+    "rua": "Rua Marechal Castelo Branco",
+    "bairro": "Residencial Arroyo",
+    "cep": "14731-142"
+  },
+  {
+    "rua": "Rua Marechal Costa e Silva",
+    "bairro": "Residencial Arroyo",
+    "cep": "14731-146"
+  },
+  {
+    "rua": "Rua Marechal Deodoro da Fonseca",
+    "bairro": "Residencial Arroyo",
+    "cep": "14731-130"
+  },
+  {
+    "rua": "Rua Marechal Garrastazu Mdici",
+    "bairro": "Residencial Arroyo",
+    "cep": "14731-148"
+  },
+  {
+    "rua": "Rua Mrio Celso Fabrcio",
+    "bairro": "Residencial Arroyo",
+    "cep": "14731-140"
+  },
+  {
+    "rua": "Rua Moacir Dias",
+    "bairro": "Residencial Arroyo",
+    "cep": "14731-144"
+  },
+  {
+    "rua": "Avenida Liscano Coelho Blanco",
+    "bairro": "Residencial Baraldi",
+    "cep": "14731-034"
+  },
+  {
+    "rua": "Rua Abel Joaquim Conceio",
+    "bairro": "Residencial Baraldi",
+    "cep": "14731-030"
+  },
+  {
+    "rua": "Rua Alberto de Souza Coelho",
+    "bairro": "Residencial Baraldi",
+    "cep": "14731-050"
+  },
+  {
+    "rua": "Rua Amrico Vespcio",
+    "bairro": "Residencial Baraldi",
+    "cep": "14731-052"
+  },
+  {
+    "rua": "Rua Anizio Jorge Casseb",
+    "bairro": "Residencial Baraldi",
+    "cep": "14731-026"
+  },
+  {
+    "rua": "Rua Antnio Baraldi",
+    "bairro": "Residencial Baraldi",
+    "cep": "14731-040"
+  },
+  {
+    "rua": "Rua Avelino Gomes",
+    "bairro": "Residencial Baraldi",
+    "cep": "14731-042"
+  },
+  {
+    "rua": "Rua Baro do Rio Branco",
+    "bairro": "Residencial Baraldi",
+    "cep": "14731-054"
+  },
+  {
+    "rua": "Rua Izaura Alves Baraldi",
+    "bairro": "Residencial Baraldi",
+    "cep": "14731-046"
+  },
+  {
+    "rua": "Rua Joo Batista Vono",
+    "bairro": "Residencial Baraldi",
+    "cep": "14731-024"
+  },
+  {
+    "rua": "Rua Jos Ettore Baraldi Sanches",
+    "bairro": "Residencial Baraldi",
+    "cep": "14731-036"
+  },
+  {
+    "rua": "Rua Loureno Gonalves Bueno",
+    "bairro": "Residencial Baraldi",
+    "cep": "14731-028"
+  },
+  {
+    "rua": "Rua Marechal Castelo Branco",
+    "bairro": "Residencial Baraldi",
+    "cep": "14731-048"
+  },
+  {
+    "rua": "Rua Marechal Costa e Silva",
+    "bairro": "Residencial Baraldi",
+    "cep": "14731-044"
+  },
+  {
+    "rua": "Rua Orfeu Beraldi",
+    "bairro": "Residencial Baraldi",
+    "cep": "14731-038"
+  },
+  {
+    "rua": "Rua Salomo Rafael",
+    "bairro": "Residencial Baraldi",
+    "cep": "14731-020"
+  },
+  {
+    "rua": "Rua Valter Bicudo",
+    "bairro": "Residencial Baraldi",
+    "cep": "14731-032"
+  },
+  {
+    "rua": "Rua Waldomiro Wohnrath",
+    "bairro": "Residencial Baraldi",
+    "cep": "14731-022"
+  },
+  {
+    "rua": "Avenida Sebastio Carlos da Silva",
+    "bairro": "Residencial Califrnia",
+    "cep": "14732-050"
+  },
+  {
+    "rua": "Rua Iderval Cerutti",
+    "bairro": "Residencial Califrnia",
+    "cep": "14732-068"
+  },
+  {
+    "rua": "Rua Joo Mdenes Filho",
+    "bairro": "Residencial Califrnia",
+    "cep": "14732-064"
+  },
+  {
+    "rua": "Rua Joaquim Verdegay",
+    "bairro": "Residencial Califrnia",
+    "cep": "14732-072"
+  },
+  {
+    "rua": "Rua Jos Soncini",
+    "bairro": "Residencial Califrnia",
+    "cep": "14732-052"
+  },
+  {
+    "rua": "Rua Limirio Augusto Nascimento",
+    "bairro": "Residencial Califrnia",
+    "cep": "14732-054"
+  },
+  {
+    "rua": "Rua Luiz Antonio Ferro",
+    "bairro": "Residencial Califrnia",
+    "cep": "14732-062"
+  },
+  {
+    "rua": "Rua Luiz Palin",
+    "bairro": "Residencial Califrnia",
+    "cep": "14732-056"
+  },
+  {
+    "rua": "Rua Marino Sensulini",
+    "bairro": "Residencial Califrnia",
+    "cep": "14732-070"
+  },
+  {
+    "rua": "Rua Oscar de Campos Pinto",
+    "bairro": "Residencial Califrnia",
+    "cep": "14732-058"
+  },
+  {
+    "rua": "Rua Sebastio Chain",
+    "bairro": "Residencial Califrnia",
+    "cep": "14732-066"
+  },
+  {
+    "rua": "Rua Sebastio de Castro",
+    "bairro": "Residencial Califrnia",
+    "cep": "14732-060"
+  },
+  {
+    "rua": "Rua Adelino Guidugli",
+    "bairro": "Residencial Colina do Sonho",
+    "cep": "14732-006"
+  },
+  {
+    "rua": "Rua Ariovaldo de Moraes Junior",
+    "bairro": "Residencial Colina do Sonho",
+    "cep": "14732-016"
+  },
+  {
+    "rua": "Rua Caio Dias Bastos",
+    "bairro": "Residencial Colina do Sonho",
+    "cep": "14732-018"
+  },
+  {
+    "rua": "Rua Cesrio Calin Lopez",
+    "bairro": "Residencial Colina do Sonho",
+    "cep": "14732-012"
+  },
+  {
+    "rua": "Rua Diomedes Pizarro",
+    "bairro": "Residencial Colina do Sonho",
+    "cep": "14732-008"
+  },
+  {
+    "rua": "Rua Hlio Vani Sandrini",
+    "bairro": "Residencial Colina do Sonho",
+    "cep": "14732-010"
+  },
+  {
+    "rua": "Rua Miguel Barbeiro Junior",
+    "bairro": "Residencial Colina do Sonho",
+    "cep": "14732-020"
+  },
+  {
+    "rua": "Rua Paulo Severino",
+    "bairro": "Residencial Colina do Sonho",
+    "cep": "14732-002"
+  },
+  {
+    "rua": "Rua Professor Lamartine Cione",
+    "bairro": "Residencial Colina do Sonho",
+    "cep": "14732-004"
+  },
+  {
+    "rua": "Rua Sebastio Origuella Buck",
+    "bairro": "Residencial Colina do Sonho",
+    "cep": "14732-022"
+  },
+  {
+    "rua": "Rua Waldomiro Cardoso de Oliveira",
+    "bairro": "Residencial Colina do Sonho",
+    "cep": "14732-014"
+  },
+  {
+    "rua": "Vicinal Doutor Moacyr Alves de Lima",
+    "bairro": "Residencial Colina do Sonho",
+    "cep": "14732-000"
+  },
+  {
+    "rua": "Rua Abraho Jos de Moraes",
+    "bairro": "Residencial Colina do Sonho II",
+    "cep": "14732-038"
+  },
+  {
+    "rua": "Rua Benedicto Rosa de Moraes",
+    "bairro": "Residencial Colina do Sonho II",
+    "cep": "14732-036"
+  },
+  {
+    "rua": "Rua lcio Delago",
+    "bairro": "Residencial Colina do Sonho II",
+    "cep": "14732-040"
+  },
+  {
+    "rua": "Rua Joo Jos de Moraes",
+    "bairro": "Residencial Colina do Sonho II",
+    "cep": "14732-034"
+  },
+  {
+    "rua": "Rua Sebastio Origuella Buck",
+    "bairro": "Residencial Colina do Sonho II",
+    "cep": "14732-030"
+  },
+  {
+    "rua": "Vicinal Doutor Moacyr Alves de Lima",
+    "bairro": "Residencial Colina do Sonho II",
+    "cep": "14732-032"
+  },
+  {
+    "rua": "Rua Digenes Elino dos Santos Jr.",
+    "bairro": "Residencial Jequitib",
+    "cep": "14731-176"
+  },
+  {
+    "rua": "Rua Dora Barbeiro Junqueira Franco",
+    "bairro": "Residencial Jequitib",
+    "cep": "14731-172"
+  },
+  {
+    "rua": "Rua Hugo Kohlmann",
+    "bairro": "Residencial Jequitib",
+    "cep": "14731-174"
+  },
+  {
+    "rua": "Rua Jos Anchieta Matta",
+    "bairro": "Residencial Jequitib",
+    "cep": "14731-182"
+  },
+  {
+    "rua": "Rua Moacir Dias",
+    "bairro": "Residencial Jequitib",
+    "cep": "14731-170"
+  },
+  {
+    "rua": "Rua Olga Casseb",
+    "bairro": "Residencial Jequitib",
+    "cep": "14731-178"
+  },
+  {
+    "rua": "Rua Valdinei Roberto Barbero",
+    "bairro": "Residencial Jequitib",
+    "cep": "14731-180"
+  },
+  {
+    "rua": "Avenida Theodoro Rodas",
+    "bairro": "Residencial Pajussara",
+    "cep": "14731-158"
+  },
+  {
+    "rua": "Rua Elizeu Dorival Barato",
+    "bairro": "Residencial Pajussara",
+    "cep": "14731-154"
+  },
+  {
+    "rua": "Rua Maria Baldo Barato",
+    "bairro": "Residencial Pajussara",
+    "cep": "14731-156"
+  },
+  {
+    "rua": "Rua Maria Mercedes Barato",
+    "bairro": "Residencial Pajussara",
+    "cep": "14731-160"
+  },
+  {
+    "rua": "Rua Moacir Dias",
+    "bairro": "Residencial Pajussara",
+    "cep": "14731-162"
+  },
+  {
+    "rua": "Rua Pedro Barato",
+    "bairro": "Residencial Pajussara",
+    "cep": "14731-152"
+  },
+  {
+    "rua": "Via de Acesso Sebastio Fioreze",
+    "bairro": "Residencial Pajussara",
+    "cep": "14731-150"
+  },
+  {
+    "rua": "Rua Antonio Silvio Cunha Bueno",
+    "bairro": "Residencial Villa Real",
+    "cep": "14730-374"
+  },
+  {
+    "rua": "Rua Donato Cezare Neto",
+    "bairro": "Residencial Villa Real",
+    "cep": "14730-370"
+  },
+  {
+    "rua": "Rua Doutor Antonio Crespo",
+    "bairro": "Residencial Villa Real",
+    "cep": "14730-382"
+  },
+  {
+    "rua": "Rua Engenheiro Paulo Vaz Paixo",
+    "bairro": "Residencial Villa Real",
+    "cep": "14730-380"
+  },
+  {
+    "rua": "Rua Naim Haddad",
+    "bairro": "Residencial Villa Real",
+    "cep": "14730-378"
+  },
+  {
+    "rua": "Rua Olivia Ferraz Crespo",
+    "bairro": "Residencial Villa Real",
+    "cep": "14730-384"
+  },
+  {
+    "rua": "Rua Severiano Arroyo Netto",
+    "bairro": "Residencial Villa Real",
+    "cep": "14730-376"
+  },
+  {
+    "rua": "Rua Thomaz Marocelli",
+    "bairro": "Residencial Villa Real",
+    "cep": "14730-372"
+  },
+  {
+    "rua": "Avenida Liscano Coelho Blanco",
+    "bairro": "Vila Nova",
+    "cep": "14732-238"
+  },
+  {
+    "rua": "Rua Angelo Sasso",
+    "bairro": "Vila Nova",
+    "cep": "14732-220"
+  },
+  {
+    "rua": "Rua Armindo Nicoletti",
+    "bairro": "Vila Nova",
+    "cep": "14732-222"
+  },
+  {
+    "rua": "Rua Emilio Palin",
+    "bairro": "Vila Nova",
+    "cep": "14732-230"
+  },
+  {
+    "rua": "Rua Ivo Maganhato",
+    "bairro": "Vila Nova",
+    "cep": "14732-234"
+  },
+  {
+    "rua": "Rua Joo Baptista Rosinha",
+    "bairro": "Vila Nova",
+    "cep": "14732-236"
+  },
+  {
+    "rua": "Rua Joo Bento Leal",
+    "bairro": "Vila Nova",
+    "cep": "14732-228"
+  },
+  {
+    "rua": "Rua Joaquim Martins Caiero",
+    "bairro": "Vila Nova",
+    "cep": "14732-232"
+  },
+  {
+    "rua": "Rua Maximiliano Sandrini",
+    "bairro": "Vila Nova",
+    "cep": "14732-224"
+  },
+  {
+    "rua": "Rua Vicente Rossatto",
+    "bairro": "Vila Nova",
+    "cep": "14732-226"
+  }
+]
