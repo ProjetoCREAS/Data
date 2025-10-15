@@ -1,0 +1,21 @@
+[
+  { "nome": "APAE Monte Azul Paulista", "tipo": "Escola de Educação Especial" },
+  { "nome": "CEMEI Oringa Belodi Fioreze", "tipo": "Centro Municipal de Educação Infantil" },
+  { "nome": "CEMEI Profª Antonia Tomazella Sevilhano", "tipo": "Centro Municipal de Educação Infantil" },
+  { "nome": "CEMEI Profª Dona Margo Margarida de Oliveira Del Arco", "tipo": "Centro Municipal de Educação Infantil" },
+  { "nome": "CEMEI Profª Emilia Barbeiro Messas Della Santina", "tipo": "Centro Municipal de Educação Infantil" },
+  { "nome": "CEMEI Profª Lizetti Ciapolini Lotti Carminatti", "tipo": "Centro Municipal de Educação Infantil" },
+  { "nome": "CEMEI Profª. Sumaih Chamas Vilela", "tipo": "Centro Municipal de Educação Infantil" },
+  { "nome": "CEMEI Profº Edir Celina Roncaglia Delarco", "tipo": "Centro Municipal de Educação Infantil" },
+  { "nome": "Colégio Alternativo de Educação Infantil - Ensino Fundamental", "tipo": "Outras" },
+  { "nome": "E. E. Prof. Nena Giannasi Buck", "tipo": "EE (Escola Estadual)" },
+  { "nome": "EE Bairro Cruzeiro", "tipo": "EE (Escola Estadual)" },
+  { "nome": "EMEB Manoel Rodrigues Villarinho Filho", "tipo": "Escolas Municipais de Educação Básica" },
+  { "nome": "EMEC Profª Alice Neves Garcia Ferreira", "tipo": "Escola Exclusiva de Atividade Complementar" },
+  { "nome": "EMEC Profº Henrique da Costa Garcia", "tipo": "Escola Exclusiva de Atividade Complementar" },
+  { "nome": "EMEF CEL Aureliano Junqueira Franco", "tipo": "Escola Municipal de Ensino Fundamental" },
+  { "nome": "EMEF Profª Alzira de Freitas Casseb", "tipo": "Escola Municipal de Ensino Fundamental" },
+  { "nome": "EMEI Profª Zenaide Calil Rosinha", "tipo": "Escolas Municipais de Educação Infantil" },
+  { "nome": "Escola Municipal de Ensino Supletivo de Primeiro Grau", "tipo": "EJA - Educação de Jovens e Adultos" },
+  { "nome": "Espaço Livre Monte Azul Paulista", "tipo": "Outras" }
+]
